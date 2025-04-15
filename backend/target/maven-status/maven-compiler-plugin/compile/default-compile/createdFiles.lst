@@ -1,0 +1,7 @@
+com\ingestiontool\controller\IngestionController$FlatFileConfig.class
+com\ingestiontool\controller\IngestionController$ClickHouseTableRequest.class
+com\ingestiontool\controller\IngestionController$IngestionRequest.class
+com\ingestiontool\IngestionToolApplication.class
+com\ingestiontool\controller\IngestionController.class
+com\ingestiontool\service\IngestionService.class
+com\ingestiontool\controller\IngestionController$ClickHouseConfig.class

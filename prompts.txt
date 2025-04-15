@@ -1,0 +1,17 @@
+# AI Prompts Collection
+
+1. "Explain the architecture of a data ingestion tool for ClickHouse."
+2. "Generate a sample REST API endpoint in Java Spring Boot for file ingestion."
+3. "Provide best practices for ingesting flat files into a column-oriented database."
+4. "Write a React component to display ingestion status with real-time updates."
+5. "Suggest optimizations for high-performance data ingestion pipelines."
+6. "Explain how to handle error logging and retries in data ingestion services."
+7. "Generate SQL queries for creating tables optimized for ClickHouse ingestion."
+8. "Describe how to secure REST APIs in a Java Spring Boot application."
+9. "Provide examples of unit tests for backend ingestion service methods."
+10. "Explain how to set up a local development environment for a full-stack ingestion tool."
+11. "Generate a Dockerfile for deploying the backend ingestion service."
+12. "Suggest UI/UX improvements for a data ingestion frontend application."
+13. "Explain how to monitor and alert on ingestion failures in production."
+14. "Provide sample configuration for ClickHouse database connection in Spring Boot."
+15. "Write a script to automate ingestion of multiple flat files into ClickHouse."
